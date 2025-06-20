@@ -41,7 +41,7 @@
 
 
 ### animated_quad_gosper.py
-![alt text](animated_quad_gosper.png)![alt text](animated_quad_gosper2.png)![alt text](animated_quad_gosper3.png)
+![alt text](animated_quad_gosper2.png)
 ![alt text](animated_quad_gosper.gif)
 
 
