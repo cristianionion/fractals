@@ -26,8 +26,6 @@
 ### l_sys_sierpinksi_triangle.py
 ![alt text](l_sys_sierpinski_triangle.png)
 
-### quad_gosper.py
-![alt text](quad_gosper.png)
 
 ### fern.py
 ![alt text](fern.png)
@@ -36,6 +34,10 @@
 ### animated_fern.py
 ![alt text](animated_fern.png)
 ![alt text](animated_fern.gif)
+
+
+### quad_gosper.py
+![alt text](quad_gosper.png)
 
 
 ### animated_quad_gosper.py
