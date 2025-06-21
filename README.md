@@ -58,3 +58,9 @@
 Set up WSL2 in Linux
 
 Install `libx11-dev`, `xserver-xorg-dev`, `xorg-dev`
+
+to compile using c:
+
+gcc code.c -lm -lX11
+
+NOTE: FPT.so and either FPToolkit.c and Gkit.py must be present in same directory as fractal code
